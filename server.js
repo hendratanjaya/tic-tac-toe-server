@@ -6,7 +6,7 @@ const cors = require("cors");
 
 
 const corsOptions = {
-    origin: "https://hendratanjaya.github.io/tic-tac-toe-client",
+    origin: "https://hendratanjaya.github.io/tic-tac-toe-client/",
    
 };
 const app = express();
