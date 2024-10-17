@@ -6,7 +6,7 @@ const cors = require("cors");
 
 
 const corsOptions = {
-    origin: "https://hendratanjaya.github.io/",
+    origin: "https://hendratanjaya.github.io",
    
 };
 const app = express();
